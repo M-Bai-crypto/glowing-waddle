@@ -1,2 +1,1 @@
-项目开始
-This is my first repository
+在这个仓库中保存了我学习Python的代码
